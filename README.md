@@ -64,9 +64,3 @@ LinkedIn: abhishek-dayal
 
 GitHub: Abhishek70006
 
-✅ IMPORTANT ADVICE (VERY IMPORTANT)
-
-❌ Don’t select all skills in the generator
-✅ Select only what you actually know
-❌ HRs hate fake/overloaded profiles
-✅ Clean + honest profile = higher shortlisting chance
