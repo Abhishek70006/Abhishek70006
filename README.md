@@ -1,16 +1,72 @@
-## Hi there 👋
+👋 Hi, I’m Abhishek Dayal
+💻 A Passionate Full Stack Developer from India 🇮🇳
 
-<!--
-**Abhishek70006/Abhishek70006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Career Mentor AI
+🌱 I’m currently learning AI Automation, n8n, and Next.js
+👯 I’m looking to collaborate on Full Stack & AI-based projects
+💬 Ask me about Java, JavaScript, MERN Stack, UI/UX
+📫 How to reach me: dayalabhi2018@gmail.com
 
-Here are some ideas to get you started:
+⚡ Fun fact: I enjoy solving problems and building useful products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+
+Career Mentor AI – AI-based career guidance platform
+
+Adoptable Pets – Full stack pet adoption website
+
+Airbnb Clone – MERN stack project
+
+🔗 GitHub: https://github.com/Abhishek70006
+
+🛠️ Tech Stack (Keep it REAL & STRONG)
+Programming Languages
+
+Java
+
+JavaScript
+
+Python
+
+Frontend
+
+HTML, CSS, JavaScript
+
+React
+
+Tailwind CSS
+
+Backend
+
+Node.js
+
+Express.js
+
+Database
+
+MongoDB
+
+MySQL
+
+Tools & Platforms
+
+Git & GitHub
+
+Postman
+
+
+
+
+
+🌐 Connect with Me
+
+LinkedIn: abhishek-dayal
+
+GitHub: Abhishek70006
+
+✅ IMPORTANT ADVICE (VERY IMPORTANT)
+
+❌ Don’t select all skills in the generator
+✅ Select only what you actually know
+❌ HRs hate fake/overloaded profiles
+✅ Clean + honest profile = higher shortlisting chance
