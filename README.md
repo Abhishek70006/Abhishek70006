@@ -62,7 +62,8 @@
 
 - **Career Mentor AI** – AI-based career guidance platform  
 - **Adoptable Pets** – Full stack pet adoption website  
-- **Airbnb Clone** – MERN stack project  
+- **Airbnb Clone** – MERN stack project
+- **khetguru** - MERN stack project
 
 🔗 **GitHub:** https://github.com/Abhishek70006
 
@@ -81,6 +82,6 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek70006&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek70006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
